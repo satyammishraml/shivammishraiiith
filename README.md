@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @satyammishra
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Deep Learning, Natural Language Processing
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
